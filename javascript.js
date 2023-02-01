@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send/?phone=%2B5493718699687&text=urlencodedtext&type=phone_number&app_absent=0
